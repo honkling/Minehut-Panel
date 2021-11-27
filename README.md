@@ -1,2 +1,2 @@
 # Minehut-Panel
-My Minehut Panel reverse engineering attempts
+My Minehut Panel reverse engineering attempts. Check the wiki for information.
